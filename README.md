@@ -3,8 +3,6 @@
 
 Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / PHP / WORDPRESS
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PHP/ LARAVEL
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on GITHUB
