@@ -1,7 +1,7 @@
-### Hi there 👋 I'm a Web Developer
+### Hi there 👋 I'm Sumon, I'm a Web Developer.
 
-<!--
-**mdsumonali372/mdsumonali372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / PHP / WORDPRESS
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
