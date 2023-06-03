@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sumon, I'm a Web Developer.
 
 
-Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / PHP / WORDPRESS
+Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / TAILWIND / REACT / EXPRESS JS / NODE JS / SASS / PHP / WORDPRESS
 
 - 🔭 I’m currently working on PHP/ LARAVEL
 - 🌱 I’m currently learning REACT
